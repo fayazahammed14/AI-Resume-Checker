@@ -1,6 +1,6 @@
 **How to Use the AI Resume Checker**
 
-Step 1: Open Telegram and click [Telegram bot](https://t.me/Fayaz_Resume_checker_bot)
+Step 1: Click [Telegram bot](https://t.me/Fayaz_Resume_checker_bot)
 
 Step 2: Start the bot and send the message "Hi".
 
