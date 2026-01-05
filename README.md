@@ -15,7 +15,7 @@ Users interact with a [Telegram bot](https://t.me/Fayaz_Resume_checker_bot)  by 
 
 ## 🛠 Tools & Technologies
 - Telegram Bot API
-- Make.com (No-Code Automation)
+- Make.com 
 - AI Resume Parsing
 - Email Automation
 
