@@ -15,6 +15,6 @@ Step 4: Please open your resume in [Google docs](https://docs.google.com/) (Resu
         
 Step 5: Paste the resume link in the Telegram chat.
 
-Step 6: Wait for 2–5 minutes while the resume is analyzed.
+Step 6: Wait few seconds while the resume is analyzed in backend by make.com.
 
 Step 7: The resume analysis report will be **sent to the email address mentioned in your resume**.
